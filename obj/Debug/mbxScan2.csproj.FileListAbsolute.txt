@@ -1,0 +1,24 @@
+c:\users\administrator\documents\visual studio 2015\Projects\mbxScan2\mbxScan2\bin\Debug\mbxScan2.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\mbxScan2\mbxScan2\obj\Debug\mbxScan2.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\mbxScan2\mbxScan2\obj\Debug\mbxScan2.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\mbxScan2\mbxScan2\obj\Debug\mbxScan2.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\mbxScan2\mbxScan2\obj\Debug\mbxScan2.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\mbxScan2\mbxScan2\bin\Debug\mbxScan2.exe
+c:\users\administrator\documents\visual studio 2015\Projects\mbxScan2\mbxScan2\bin\Debug\mbxScan2.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\mbxScan2\mbxScan2\bin\Debug\BlackMagic.dll
+c:\users\administrator\documents\visual studio 2015\Projects\mbxScan2\mbxScan2\bin\Debug\fasmdll_managed.dll
+c:\users\administrator\documents\visual studio 2015\Projects\mbxScan2\mbxScan2\bin\Debug\BlackMagic.xml
+c:\users\administrator\documents\visual studio 2015\Projects\mbxScan2\mbxScan2\obj\Debug\mbxScan2.exe
+c:\users\administrator\documents\visual studio 2015\Projects\mbxScan2\mbxScan2\obj\Debug\mbxScan2.pdb
+C:\Users\Administrator\Eigene Dateien\Visual Studio 2015\Projects\mbxScan2\mbxScan2\bin\Debug\mbxScan2.exe.config
+C:\Users\Administrator\Eigene Dateien\Visual Studio 2015\Projects\mbxScan2\mbxScan2\obj\Debug\mbxScan2.exe
+C:\Users\Administrator\Eigene Dateien\Visual Studio 2015\Projects\mbxScan2\mbxScan2\obj\Debug\mbxScan2.pdb
+C:\Users\Administrator\Eigene Dateien\Visual Studio 2015\Projects\mbxScan2\mbxScan2\bin\Debug\mbxScan2.exe
+C:\Users\Administrator\Eigene Dateien\Visual Studio 2015\Projects\mbxScan2\mbxScan2\bin\Debug\mbxScan2.pdb
+C:\Users\Administrator\Eigene Dateien\Visual Studio 2015\Projects\mbxScan2\mbxScan2\bin\Debug\BlackMagic.dll
+C:\Users\Administrator\Eigene Dateien\Visual Studio 2015\Projects\mbxScan2\mbxScan2\bin\Debug\fasmdll_managed.dll
+C:\Users\Administrator\Eigene Dateien\Visual Studio 2015\Projects\mbxScan2\mbxScan2\bin\Debug\BlackMagic.xml
+C:\Users\Administrator\Eigene Dateien\Visual Studio 2015\Projects\mbxScan2\mbxScan2\obj\Debug\mbxScan2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Eigene Dateien\Visual Studio 2015\Projects\mbxScan2\mbxScan2\obj\Debug\mbxScan2.Form1.resources
+C:\Users\Administrator\Eigene Dateien\Visual Studio 2015\Projects\mbxScan2\mbxScan2\obj\Debug\mbxScan2.Properties.Resources.resources
+C:\Users\Administrator\Eigene Dateien\Visual Studio 2015\Projects\mbxScan2\mbxScan2\obj\Debug\mbxScan2.csproj.GenerateResource.Cache
